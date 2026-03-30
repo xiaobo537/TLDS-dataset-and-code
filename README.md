@@ -19,5 +19,4 @@ This repository currently provides the publicly shareable materials related to t
 ## Notes
 This repository contains only the materials that can be made publicly available. The full dataset and complete source code are not fully public due to relevant restrictions. Additional materials for peer review can be provided where appropriate.
 
-## Citation
-If you use these materials, please cite the associated manuscript.
+
